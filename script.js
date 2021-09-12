@@ -93,8 +93,54 @@
 
 
 
-d
+// let styles = ['Джаз', 'Блюз']
 
+
+// styles.push('Рок-н-ролл')
+
+// console.log(styles)
+
+
+// styles[ Math.floor( styles.length/2 ) ] = 'Классика'
+
+// console.log(styles)
+
+
+// console.log( styles.shift() )
+
+
+// styles.unshift('Рэп', 'Рэгги')
+
+// console.log(styles)
+
+// function midChange(array, key) {
+//     let num = Math.round( array.length/2 )
+//     array[num] = key
+// }
+
+
+
+// function sumInpt() {
+//     let nums = []
+
+//     while (true) {
+//         let value = prompt('Введите значение')
+
+//         if (value == '' || value == null) break
+
+//         nums.push(+value)
+//     }
+
+//     let sum = 0
+
+//     for(let num of nums) {
+//         sum += num
+//     }
+
+//     return sum
+// }
+
+// alert( sumInpt() )
 
 
 
